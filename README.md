@@ -1,0 +1,2 @@
+# desktopThinkCentre
+onlyForDesktop
